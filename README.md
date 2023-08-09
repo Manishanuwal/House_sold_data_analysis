@@ -1,7 +1,7 @@
 # House_sold_data_analysis
 
 ## Database and Tools
-### - Postgre SQL
+### - PostgreSQL
 ### - PgAdmin4
 
 
